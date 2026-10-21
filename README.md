@@ -1,6 +1,6 @@
 # Guide travaux : comment comparer les devis et bien préparer son projet
 
-[![Site](https://img.shields.io/badge/site-devispros.fr-1765a8)](https://www.devispros.fr/)
+[![Site](https://img.shields.io/badge/site-keldevis.com-1765a8)](https://www.keldevis.com/)
 [![Langue](https://img.shields.io/badge/langue-fran%C3%A7ais-263449)](#)
 [![Licence](https://img.shields.io/badge/licence-MIT-green)](#licence)
 
@@ -8,7 +8,7 @@ Guide pratique destiné aux particuliers qui envisagent des travaux de rénovati
 
 Il explique comment définir son besoin, préparer un chantier, lire un devis et comparer des offres de professionnels sans se laisser guider uniquement par le prix.
 
-🌐 Site associé : [devispros.fr](https://www.devispros.fr/)
+🌐 Site associé : [keldevis.com](https://www.keldevis.com/)
 
 ---
 
@@ -65,7 +65,7 @@ Ne comparez pas seulement les montants totaux. Vérifiez chaque poste :
 
 ## Trouver des professionnels
 
-Vous pouvez demander des recommandations à votre entourage, consulter les références des artisans ou utiliser des services en ligne dédiés aux demandes de devis, comme [devispros.fr](https://www.devispros.fr/).
+Vous pouvez demander des recommandations à votre entourage, consulter les références des artisans ou utiliser des services en ligne dédiés aux demandes de devis, comme [keldevis.com](https://www.keldevis.com/).
 
 Avant tout engagement, vérifiez l'identité de l'entreprise, ses références, ses assurances et les conditions de son intervention. Si vous utilisez un formulaire en ligne, assurez-vous de comprendre comment vos coordonnées seront transmises.
 
