@@ -1,110 +1,176 @@
-# Guide travaux : comment comparer les devis et bien préparer son projet
+# Guide pratique : réussir ses devis et son chantier de travaux
 
-[![Site](https://img.shields.io/badge/site-devistravauxgratuit.com-1765a8)](https://www.devistravauxgratuit.com/)
+[![Site](https://img.shields.io/badge/site-devispros.fr-1765a8)](https://www.devispros.fr/)
 [![Langue](https://img.shields.io/badge/langue-fran%C3%A7ais-263449)](#)
 [![Licence](https://img.shields.io/badge/licence-MIT-green)](#licence)
 
-Guide pratique destiné aux particuliers qui envisagent des travaux de rénovation : rénovation intérieure, isolation, toiture, plomberie, électricité ou aménagements extérieurs.
+Ce dépôt rassemble des repères simples pour les particuliers qui préparent des travaux en France : comment demander et comparer des devis, quelles garanties exiger, quelles aides et quel taux de TVA sont possibles, et quelles erreurs éviter entre la signature et la réception du chantier.
 
-Il explique comment définir son besoin, préparer un chantier, lire un devis et comparer des offres de professionnels sans se laisser guider uniquement par le prix.
+> Les informations sont d'ordre général. Les règles (aides, TVA, autorisations) évoluent et dépendent de chaque situation : vérifiez-les sur les sites officiels avant de vous engager.
 
-🌐 Site associé : [devistravauxgratuit.com](https://www.devistravauxgratuit.com/)
+Site associé : [devispros.fr](https://www.devispros.fr/), un service gratuit de mise en relation avec des artisans, accompagné de [conseils travaux](https://www.devispros.fr/conseils/), d'un [outil pour vérifier un devis](https://www.devispros.fr/verifier-un-devis/) et d'un [simulateur d'aides](https://www.devispros.fr/simulateur-aides/).
 
 ---
 
 ## Sommaire
 
-- [Pourquoi comparer plusieurs devis](#pourquoi-comparer-plusieurs-devis)
-- [Quels travaux faire chiffrer](#quels-travaux-faire-chiffrer)
-- [Les 5 étapes pour préparer son devis](#les-5-étapes-pour-préparer-son-devis)
-- [Lire et comparer un devis](#lire-et-comparer-un-devis)
-- [Trouver des professionnels](#trouver-des-professionnels)
-- [Erreurs à éviter avant de signer](#erreurs-à-éviter-avant-de-signer)
+- [Avant de demander un devis](#avant-de-demander-un-devis)
+- [Ce que doit contenir un devis](#ce-que-doit-contenir-un-devis)
+- [Comparer deux devis](#comparer-deux-devis)
+- [Les garanties à connaître](#les-garanties-à-connaître)
+- [TVA, aides et qualifications](#tva-aides-et-qualifications)
+- [Signer, payer, réceptionner](#signer-payer-réceptionner)
+- [Dans quel ordre faire les travaux](#dans-quel-ordre-faire-les-travaux)
+- [Check-list avant de signer](#check-list-avant-de-signer)
 - [Questions fréquentes](#questions-fréquentes)
 - [Contribuer](#contribuer)
 - [Licence](#licence)
 
 ---
 
-## Pourquoi comparer plusieurs devis
+## Avant de demander un devis
 
-Le coût d'un chantier dépend de la surface à traiter, de l'état du logement, des matériaux choisis, de la complexité des interventions et du temps nécessaire à leur réalisation.
+Un devis n'est utile que si l'artisan a bien compris votre projet. Préparez :
 
-Deux professionnels peuvent proposer des tarifs différents pour un même projet. Ces écarts ne signifient pas forcément qu'une offre est trop chère ou qu'une autre est avantageuse : il faut surtout vérifier que les prestations sont comparables.
+- **le but des travaux** : confort, économies d'énergie, remise aux normes, revente, agrandissement ;
+- **les mesures et photos** des pièces ou des façades concernées ;
+- **les contraintes** : accès au chantier, copropriété, logement occupé, bâtiment ancien ou protégé ;
+- **le budget maximal** que vous acceptez de consacrer au projet, en gardant une marge pour les imprévus (une réserve de 10 à 15 % est un repère courant) ;
+- **le calendrier souhaité**, en tenant compte des délais d'obtention des autorisations et des aides.
 
-## Quels travaux faire chiffrer
+Plus la demande est précise, plus les devis seront comparables.
 
-| Catégorie | Exemples |
+## Ce que doit contenir un devis
+
+Un devis sérieux est détaillé et daté. Il mentionne en général :
+
+| Rubrique | Ce qu'on doit y trouver |
 |---|---|
-| Rénovation intérieure | Cuisine, salle de bains, revêtements de sol, peinture |
-| Isolation et énergie | Combles, murs, planchers, chauffage, ventilation |
-| Toiture et façade | Réfection de toiture, remplacement de tuiles, ravalement |
-| Électricité et plomberie | Mise aux normes, équipements sanitaires, réseaux |
-| Aménagements extérieurs | Terrasse, clôture, portail, allée, jardin |
+| Entreprise | Nom, adresse, numéro SIRET, coordonnées |
+| Assurance | Nom de l'assureur et couverture de la garantie décennale, lorsqu'elle s'applique |
+| Client et chantier | Vos coordonnées et l'adresse des travaux |
+| Prestations | Description poste par poste, avec les quantités et les unités |
+| Matériaux | Marque, référence ou caractéristiques techniques |
+| Prix | Montants hors taxes et toutes taxes comprises, taux de TVA appliqué |
+| Délais | Date de début et durée prévisionnelle du chantier |
+| Validité | Durée pendant laquelle les prix sont garantis |
+| Paiement | Acompte éventuel, échéancier, modalités de règlement |
 
-## Les 5 étapes pour préparer son devis
+Un devis réduit à un seul montant global, sans détail, ne permet ni de comparer ni de contrôler la facture finale.
 
-1. **Définir votre besoin** : listez les travaux indispensables et ceux qui peuvent attendre.
-2. **Préciser votre budget** : fixez une enveloppe réaliste avec une marge pour les imprévus.
-3. **Décrire le chantier** : dimensions, état du logement, matériaux souhaités, contraintes d'accès. Ajoutez des photos.
-4. **Comparer plusieurs propositions** : demandez des devis détaillés portant sur des prestations équivalentes.
-5. **Vérifier avant de signer** : délais, modalités de paiement, assurances et conditions contractuelles.
+## Comparer deux devis
 
-## Lire et comparer un devis
+Comparez des prestations équivalentes, pas seulement des totaux :
 
-Ne comparez pas seulement les montants totaux. Vérifiez chaque poste :
+1. **Mêmes surfaces et mêmes quantités** sur tous les devis.
+2. **Mêmes matériaux** (ou équivalents) : une peinture d'entrée de gamme et une peinture haut de gamme ne se valent pas.
+3. **Postes oubliés** : dépose de l'existant, évacuation des déchets, protection des sols, finitions, nettoyage.
+4. **Prix anormalement bas** : cherchez ce qui manque, plutôt que de supposer une bonne affaire.
+5. **Délais et disponibilité** : un artisan très demandé peut être plus cher et plus fiable.
 
-| Élément | À vérifier |
+Écrivez vos questions et demandez les réponses par écrit : elles serviront de référence en cas de désaccord.
+
+## Les garanties à connaître
+
+Une fois les travaux réceptionnés, trois garanties légales s'appliquent selon la nature du défaut.
+
+| Garantie | Durée | Concerne |
+|---|---|---|
+| Parfait achèvement | 1 an après la réception | Tous les désordres signalés (à la réception ou pendant l'année) |
+| Bon fonctionnement (biennale) | 2 ans | Équipements dissociables du bâtiment (volets roulants, robinetterie, radiateurs, par exemple) |
+| Décennale | 10 ans | Défauts qui compromettent la solidité de l'ouvrage ou le rendent impropre à son usage |
+
+Demandez **l'attestation d'assurance décennale en cours de validité** avant de signer, pour les travaux concernés. Elle doit correspondre à l'activité réellement exercée par l'artisan.
+
+## TVA, aides et qualifications
+
+**Taux de TVA** (sous conditions, à confirmer avec le professionnel) :
+
+| Taux | Cas général |
 |---|---|
-| Prestations | Nature et quantité des travaux |
-| Matériaux | Références, caractéristiques, qualité annoncée |
-| Main-d'œuvre | Détail des interventions et coûts associés |
-| Délais | Date de début et durée prévisionnelle |
-| Frais annexes | Déplacement, évacuation des déchets, finitions |
-| Conditions | Règlement, assurances, garanties |
+| 20 % | Taux normal |
+| 10 % | Travaux d'amélioration, de transformation, d'aménagement et d'entretien dans un logement achevé depuis plus de deux ans |
+| 5,5 % | Travaux d'amélioration de la qualité énergétique du logement, sous conditions |
 
-## Trouver des professionnels
+**Aides à la rénovation** : plusieurs dispositifs existent (aides de l'Anah comme MaPrimeRénov', certificats d'économies d'énergie, éco-prêt à taux zéro, aides locales). Leurs montants et conditions changent régulièrement : consultez les sites officiels ou un conseiller France Rénov'.
 
-Vous pouvez demander des recommandations à votre entourage, consulter les références des artisans ou utiliser des services en ligne dédiés aux demandes de devis, comme [devistravauxgratuit.com](https://www.devistravauxgratuit.com/).
+Deux règles pratiques :
 
-Avant tout engagement, vérifiez l'identité de l'entreprise, ses références, ses assurances et les conditions de son intervention. Si vous utilisez un formulaire en ligne, assurez-vous de comprendre comment vos coordonnées seront transmises.
+- **déposez le dossier d'aide avant de signer le devis et de commencer les travaux** lorsque le dispositif l'exige ;
+- pour la rénovation énergétique, l'aide est en général conditionnée à une entreprise **qualifiée RGE** : vérifiez la mention RGE sur le devis et dans l'annuaire officiel des professionnels.
 
-## Erreurs à éviter avant de signer
+## Signer, payer, réceptionner
 
-- Choisir uniquement en fonction du prix le plus bas.
-- Accepter un devis imprécis sans demander d'explications.
-- Oublier de vérifier les matériaux et les finitions prévus.
-- Négliger les délais ou les modalités de paiement.
-- Verser une somme sans avoir compris les conditions contractuelles.
-- Ne pas vérifier les assurances et garanties adaptées aux travaux.
+**Avant la signature**
+- Relisez le devis et les conditions générales, puis inscrivez la mention « bon pour accord » avec la date et votre signature.
+- Si le contrat est signé **chez vous ou hors des locaux de l'entreprise** (après un démarchage, par exemple), un délai de rétractation de 14 jours s'applique, et aucun paiement ne peut être exigé avant 7 jours.
 
-Pour les chantiers importants, lisez tous les documents avant de signer, demandez une clarification écrite en cas de doute et conservez les échanges avec le professionnel.
+**Pendant le chantier**
+- Échelonnez les paiements selon l'avancement des travaux, plutôt qu'un règlement total à l'avance.
+- Tout travail supplémentaire doit faire l'objet d'un **avenant écrit** (prix et délai) avant d'être exécuté.
+- Conservez les échanges, les photos datées et les factures.
+
+**À la fin du chantier : la réception**
+- Faites le tour du chantier avec l'artisan et notez chaque défaut dans un **procès-verbal de réception**, avec ou sans réserves.
+- La date de réception est le point de départ des garanties légales.
+- Ne réglez le solde qu'après avoir vérifié que les réserves sont levées, ou prévoyez une retenue convenue par écrit.
+
+## Dans quel ordre faire les travaux
+
+L'ordre habituel d'une rénovation complète, à adapter à votre projet :
+
+1. Études, autorisations et dépôt des demandes d'aides
+2. Démolition et gros œuvre
+3. Toiture, étanchéité et menuiseries extérieures
+4. Plomberie, électricité, ventilation et chauffage (passage des réseaux)
+5. Isolation et cloisons
+6. Plâtrerie, enduits et chape
+7. Revêtements de sol et carrelage
+8. Peinture et finitions
+9. Pose des équipements et nettoyage final
+
+Un mauvais ordre coûte cher : repeindre avant de passer les gaines électriques, par exemple, oblige à refaire les finitions.
+
+## Check-list avant de signer
+
+- [ ] Plusieurs devis détaillés et comparables obtenus
+- [ ] Identité de l'entreprise vérifiée (SIRET, adresse, avis ou références)
+- [ ] Attestation d'assurance décennale reçue lorsqu'elle s'applique
+- [ ] Qualification RGE vérifiée si une aide est visée
+- [ ] Dossier d'aide déposé avant la signature, si nécessaire
+- [ ] Autorisations d'urbanisme obtenues ou en cours (déclaration préalable, permis)
+- [ ] Matériaux, quantités, délais et modalités de paiement écrits
+- [ ] Acompte raisonnable et paiement échelonné
+- [ ] Mention « bon pour accord », date et signature
 
 ## Questions fréquentes
 
-**Combien de devis faut-il demander ?**
-Il n'existe pas de nombre obligatoire. Deux ou trois propositions comparables fournissent une base utile lorsque plusieurs professionnels sont disponibles.
+**Combien de devis demander ?**
+Il n'y a pas de nombre obligatoire. Deux à trois devis détaillés suffisent souvent pour juger de la cohérence des prix.
 
 **Un devis est-il toujours gratuit ?**
-Non, pas systématiquement. Demandez au professionnel si l'établissement du devis est payant avant de confirmer votre demande.
+Pas systématiquement. Le professionnel doit vous informer à l'avance si l'établissement du devis est payant. Posez la question avant de confirmer.
 
-**Comment savoir si un tarif est cohérent ?**
-Comparez plusieurs offres détaillées portant sur les mêmes prestations, en tenant compte des matériaux, des quantités, des contraintes techniques et des conditions d'exécution.
+**Peut-on négocier un devis ?**
+Oui. Appuyez-vous sur des devis comparables et discutez des postes (matériaux, calendrier, finitions) plutôt que de demander seulement une remise globale.
 
-**Peut-on modifier un devis après l'avoir accepté ?**
-Les modifications doivent être discutées avec le professionnel et formalisées par écrit, généralement par un avenant accepté par les deux parties avant la réalisation des travaux supplémentaires.
+**Que faire en cas de malfaçon ?**
+Signalez-la rapidement par courrier recommandé en décrivant le problème et en joignant des photos. En l'absence de réponse, vous pouvez faire appel à un médiateur de la consommation, puis à un conseil juridique ou à votre assurance protection juridique.
 
-**Quand commencer à rechercher un artisan ?**
-Le plus tôt possible, surtout pour les gros chantiers ou en période de forte demande.
+**Quand faut-il une autorisation d'urbanisme ?**
+Dès que les travaux changent l'aspect extérieur du bâtiment (façade, toiture, ouvertures) ou créent de la surface. Renseignez-vous auprès du service urbanisme de votre mairie et consultez le plan local d'urbanisme (PLU).
+
+**À quelle période demander des devis ?**
+Le plus tôt possible : les artisans qualifiés ont souvent plusieurs semaines de délai, surtout au printemps et à l'automne.
 
 ## Contribuer
 
-Les suggestions, corrections et améliorations sont les bienvenues.
+Les corrections et suggestions sont les bienvenues, en particulier pour mettre à jour une règle qui a changé.
 
 1. Forkez le dépôt.
 2. Créez une branche (`git checkout -b amelioration-xyz`).
 3. Committez vos modifications (`git commit -m "Description de la modification"`).
-4. Ouvrez une Pull Request.
+4. Ouvrez une Pull Request en citant votre source officielle.
 
 ## Licence
 
@@ -112,4 +178,4 @@ Ce contenu est distribué sous licence MIT. Voir le fichier `LICENSE` pour plus 
 
 ---
 
-*Informations générales destinées aux particuliers. Les prix, les délais et les conditions varient selon les projets et les professionnels. Vérifiez les informations contractuelles avant tout engagement.*
+*Informations générales destinées aux particuliers, sans valeur de conseil juridique ou financier. Les règles, taux et aides peuvent changer : vérifiez-les auprès des administrations compétentes avant tout engagement.*
